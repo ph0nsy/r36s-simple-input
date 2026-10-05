@@ -14,7 +14,7 @@ kernel/toolchain identification, cross-compilation, device tree archaeology,
 and direct _MMIO register_ access, built and verified end to end against 
 real hardware. 
 
->See [the full writeup](https://sackonline.org/wp-content/uploads/2020/01/under-construction-meme.jpg) for the complete process, including the dead ends.
+>See [the full writeup](https://www.ph0nsy.dev/blog/r36s-driver) for the complete process, including the dead ends.
 
 > ❗ **Important**
 >
